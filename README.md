@@ -2,8 +2,8 @@
 <hr>
 
 ## 💬 Sobre mí:
-- 📚 Soy estudiante de desarrollo de aplicaciones web.  
-- 🚀 Soy un aprendiz apasionado que siempre está dispuesto a aprender y trabajar en tecnologías. 
+- 📚 Soy Desarrollador Full Stack.  
+- 🚀 Soy un junior apasionado que siempre está dispuesto a aprender y trabajar en tecnologías. 
 - 🛠 Por mi cuenta voy probando los conocimientos que voy adquiriendo y creando pequeños proyectos.
 <hr>
 
